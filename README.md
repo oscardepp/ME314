@@ -4,5 +4,5 @@ This is a collection of all of my ME314 animations, simulations, math theory, an
 
 
 <p align="center">
-  <img src="https://github.com/oscardepp/ME314/blob/main/videos/jackinbox.gif" alt="animated" />
+  <img src="https://github.com/oscardepp/ME314/blob/main/videos/jackinbox.gif" alt="animated"  width="300" height="300" / >
 </p>
