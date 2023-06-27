@@ -27,3 +27,12 @@ This is a collection of all of my ME314 animations, simulations, math theory, an
   </figure>
 </p>
 
+<figure>
+    <img src="https://github.com/oscardepp/ME314/blob/main/videos/triplependulum.gif" alt="animated"  width="300" height="300" />
+    <figcaption>Caption goes here</figcaption>
+</figure>
+<figure>
+    <img src="https://github.com/oscardepp/ME314/blob/main/videos/triplependulumconstrained.gif" alt="animated"  width="300" height="300" />
+    <figcaption>Caption goes here</figcaption>
+</figure>
+
