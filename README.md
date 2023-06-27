@@ -16,3 +16,8 @@ This is a collection of all of my ME314 animations, simulations, math theory, an
 
 ## Triple Pendulum Animations
 
+<p float="left">
+  <img src="https://github.com/oscardepp/ME314/blob/main/videos/triplependulum.gif" alt="animated"  width="300" height="300" />
+  <img src="https://github.com/oscardepp/ME314/blob/main/videos/triplependulumconstrained.gif" alt="animated"  width="300" height="300" />
+</p>
+
