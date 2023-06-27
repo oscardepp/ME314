@@ -18,10 +18,12 @@ This is a collection of all of my ME314 animations, simulations, math theory, an
 
 <p float="center">
   <figure>
+  <figure>
   <img src="https://github.com/oscardepp/ME314/blob/main/videos/triplependulum.gif" alt="animated"  width="300" height="300" />
   </figure>
   <figure>
   <img src="https://github.com/oscardepp/ME314/blob/main/videos/triplependulumconstrained.gif" alt="animated"  width="300" height="300" />
+  </figure>
   </figure>
 </p>
 
