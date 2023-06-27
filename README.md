@@ -15,19 +15,4 @@ This is a collection of all of my ME314 animations, simulations, math theory, an
 </p>
 
 ## Triple Pendulum Animations
-figure{
-    display: inline-block;
-}
-<figure>
-    <img src="https://github.com/oscardepp/ME314/blob/main/videos/triplependulum.gif" alt="animated" width="300" height="300"/>
-    <figcaption>Triple Pendulum Trajectories</figcaption>
-</figure>
-<figure>
-    <img src="https://github.com/oscardepp/ME314/blob/main/videos/triplependulumconstraint.gif"
-  alt="animated" width="300" height="300"/>
-    <figcaption>Constrainted Triple Pendulum Trajectories</figcaption>
-</figure>
-
-<img src="https://github.com/oscardepp/ME314/blob/main/videos/triplependulum.gif" alt="animated" width="300" height="300"/> <img src="https://github.com/oscardepp/ME314/blob/main/videos/triplependulumconstraint.gif"
-  alt="animated" width="300" height="300"/>
 
