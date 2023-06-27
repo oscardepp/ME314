@@ -28,4 +28,6 @@ figure{
     <figcaption>Constrainted Triple Pendulum Trajectories</figcaption>
 </figure>
 
+<img src="https://github.com/oscardepp/ME314/blob/main/videos/triplependulum.gif" alt="animated" width="300" height="300"/> <img src="https://github.com/oscardepp/ME314/blob/main/videos/triplependulumconstraint.gif"
+  alt="animated" width="300" height="300"/>
 
