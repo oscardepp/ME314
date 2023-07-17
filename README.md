@@ -4,9 +4,9 @@ This is a collection of all of my ME314 animations, simulations, math theory, an
 
 ## Table of Contents
 
-- [All Animations](#Animations)
+- [All Animations](#Animations ere)
 
-# Animations
+# Animations ere
 
 ## Jack in Box Animation
 
